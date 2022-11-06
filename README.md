@@ -8,6 +8,6 @@
 
 ### If you select the file from your computer for the avatar, it will automatically arrange them in appropriate sizes. But I do not guarantee correct trimming :smile:!
 
-[Screenshot_1](https://user-images.githubusercontent.com/84937009/200173498-3ea2e346-acc7-483f-bf71-23100de187f1.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/84937009/200173498-3ea2e346-acc7-483f-bf71-23100de187f1.jpg)
 
-[Screenshot_2](https://user-images.githubusercontent.com/84937009/200173505-641a2b0b-1b8a-4ca8-b36f-37daf99545e0.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/84937009/200173505-641a2b0b-1b8a-4ca8-b36f-37daf99545e0.jpg)
